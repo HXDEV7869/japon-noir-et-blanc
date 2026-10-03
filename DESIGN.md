@@ -20,7 +20,7 @@ Aucune couleur en dur hors de `:root`. Aucun dégradé décoratif : seuls les vo
 ## Typographie
 - Titres : **Shippori Mincho**, graisse 800.
 - Texte, boutons, légendes : **Zen Kaku Gothic New**, graisses 400, 500 et 700.
-- Échelle : H1 `clamp(52px, 8vw, 112px)` · H2 `clamp(38px, 5.6vw, 72px)` · H3 22 à 28 px · texte 16 px · légende 13 px · surtitre 12 px en capitales, interlettrage 0,2 em.
+- Échelle : H1 `clamp(46px, 6.4vw, 90px)` · H2 `clamp(38px, 5.6vw, 72px)` · H3 22 à 28 px · texte 16 px · légende 13 px · surtitre 12 px en capitales, interlettrage 0,2 em.
 
 ## Formes
 - **Un seul rayon : 4 px** (boutons, cartes, champs, badges, images).
