@@ -219,7 +219,7 @@
       else io.observe(el);
     });
   } else seen.forEach(el => el.classList.add('seen'));
-  requestAnimationFrame(() => $('#h1').classList.add('seen'));
+  setTimeout(() => $('#h1').classList.add('seen'), 60);
 
   // Comptage des chiffres
   const counters = $$('[data-count]');
