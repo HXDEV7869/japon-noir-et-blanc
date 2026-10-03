@@ -62,7 +62,7 @@ p{margin:0}
 .hero{background:var(--washi) var(--wave-red);background-size:80px 40px;overflow:hidden}
 .hero .in{display:grid;grid-template-columns:1.05fr .95fr;gap:clamp(24px,4vw,56px);align-items:center;padding-block:clamp(40px,6vw,80px)}
 .hero .in>*{min-width:0}
-.hero h1{font-size:clamp(52px,8vw,112px);margin-top:14px}
+.hero h1{font-size:clamp(46px,6.4vw,90px);margin-top:14px}
 .hero h1 .red{display:inline-block}
 .hero .sub{font-size:clamp(17px,1.5vw,19px);max-width:42ch;margin:24px 0 30px;color:#3b3631}
 .creds{display:flex;gap:8px;flex-wrap:wrap;margin-top:26px}
